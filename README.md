@@ -20,12 +20,10 @@ The minimum viable product is a single-page application that uses web token base
 8. Postman
 9. JSON Web Tokens
 
----
 ### Trello Board
 
 [Link to Trello](https://trello.com/b/1akP2dSE/project-3-travelbucket)
 
----
 ### Wireframes & ERD
 
 [Link to wireframes and ERD](https://docs.google.com/presentation/d/1Tnya5sA-F_cUn2GRPY0pazyHdNo2ZIbnaj06EK2Rnf0/edit?usp=sharing)
