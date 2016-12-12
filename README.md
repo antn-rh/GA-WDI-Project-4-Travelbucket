@@ -2,7 +2,7 @@
 
 ### About the project 
 
-Travelbucket is a single-page application designed for organizing trips! It is a way to build your itineraries from the ground up using APIs like Google Calendar, Google Maps, and Yelp. Whether it's flight and lodging information, landmarks, attractions, restaurants, or notes about your travel destination, users can store them all in their travelbuckets. 
+Travelbucket is a single-page application designed for organizing trips! It is a way to build your itineraries from the ground up using APIs like Google Calendar, Google Maps, and Yelp. Whether it's flight and lodging information, landmarks, attractions, restaurants, or notes about your travel destination, users can store them all in their Travelbuckets. 
 
 ### MVP 
 
@@ -22,7 +22,7 @@ The minimum viable product is a single-page application that uses web token base
 
 ### Trello Board
 
-[Link to Trello](https://trello.com/b/1akP2dSE/project-3-travelbucket)
+[Link to Trello](https://trello.com/b/1akP2dSE/project-3-Travelbucket)
 
 ### Wireframes & ERD
 
