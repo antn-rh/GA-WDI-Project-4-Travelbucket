@@ -1,5 +1,9 @@
 # Travelbucket
 
+### Links to App
+[Link to Frontend](https://github.com/antoniolrhee/travelbucket_frontend)
+[Link to Trello](https://github.com/antoniolrhee/travelbucket_api)
+
 ### About the project 
 
 Travelbucket is a single-page application designed for organizing trips! It is a way to build your itineraries from the ground up using APIs like Google Calendar, Google Maps, and Yelp. Whether it's flight and lodging information, landmarks, attractions, restaurants, or notes about your travel destination, users can store them all in their Travelbuckets. 
@@ -8,17 +12,20 @@ Travelbucket is a single-page application designed for organizing trips! It is a
 
 The minimum viable product is a single-page application that uses web token based authentication and allows users to create, read, update, and delete trips. Users should be able to store transit information and other important notes as they create a trip. Another goal is to incorporate Google Calendar and Google Maps to add more organizational features to the trip planning functionality. 
 
+### Approach
+
 ### Technologies Used
 
 1. HTML5
 2. CSS3
 3. MEAN Stack (MongoDB, Express, AngularJS, Node.js) 
 4. Google Materialize
-5. Google Maps API 
+5. Google Maps API
 6. Google Calendar API
 7. Yelp API 
 8. Postman
-9. JSON Web Tokens
+9. JSON Web Tokens (for token-based authentication)
+10. Satellizer (for OAuth with tokens)
 
 ### Trello Board
 
