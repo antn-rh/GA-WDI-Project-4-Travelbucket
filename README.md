@@ -2,7 +2,8 @@
 
 ### Links to App
 [Link to Frontend](https://github.com/antoniolrhee/travelbucket_frontend)
-[Link to Trello](https://github.com/antoniolrhee/travelbucket_api)
+
+[Link to Backend](https://github.com/antoniolrhee/travelbucket_api)
 
 ### About the project 
 
