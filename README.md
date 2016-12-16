@@ -51,8 +51,11 @@ My approach to building this project was taking it one model at a time. Within t
 
 ### Wireframes & ERD
 
-[Link to wireframes and ERD](https://docs.google.com/presentation/d/1Tnya5sA-F_cUn2GRPY0pazyHdNo2ZIbnaj06EK2Rnf0/edit?usp=sharing)
-
+![](http://imgur.com/kGCkLdI.png)
+![](http://imgur.com/hteXyOX.png)
+![](http://imgur.com/9Xe1u00.png)
+![](http://imgur.com/VKe5xEG.png)
+![](http://imgur.com/aeafeQq.png)
 
 ### Unsolved Issues
 
