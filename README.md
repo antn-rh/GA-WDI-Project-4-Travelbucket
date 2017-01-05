@@ -7,7 +7,7 @@
 
 #
 
-[Link to Deployed Frontend](https://antoniolrhee.github.io/travelbucket_frontend/)
+[Link to Deployed Frontend](https://antoniolrhee.github.io/GA-WDI-Project-4-Travelbucket-Frontend/)
 
 [Link to Deployed Backend](https://travelbucket-api.herokuapp.com/)
 
