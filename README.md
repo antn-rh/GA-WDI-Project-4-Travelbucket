@@ -1,9 +1,9 @@
 # Travelbucket
 
 ### Links to App
-[Link to Github Frontend](https://github.com/antoniolrhee/travelbucket_frontend)
+[Link to Github Frontend Code](https://github.com/antoniolrhee/travelbucket_frontend)
 
-[Link to Github Backend](https://github.com/antoniolrhee/travelbucket_api)
+[Link to Github Backend Code](https://github.com/antoniolrhee/travelbucket_api)
 
 #
 
